@@ -17,3 +17,11 @@ Add your Hubspot API key to .env
 ```bash
 cp .env.example .env
 ```
+
+### Usage
+
+Currently, can run from CLI, passing in an optional value as an offset.
+
+```bash
+php index.php [number or null]
+```
