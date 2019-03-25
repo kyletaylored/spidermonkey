@@ -1,0 +1,20 @@
+{
+  "name": "kyletaylor/csvnode",
+  "authors": [
+    {
+      "name": "Kyle Taylor",
+      "email": "kyletaylored@gmail.com"
+    }
+  ],
+  "require": {
+    "parsecsv/php-parsecsv": "^1.1",
+    "rmccue/requests": "^1.7",
+    "mmucklo/krumo": "^0.6.0",
+    "tonirilix/nested-json-flattener": "^2.1",
+    "phpquery/phpquery": "^0.0.1",
+    "ext-pdo": "*",
+    "ext-json": "*",
+    "mgargano/simplehtmldom": "^1.5",
+    "vlucas/phpdotenv": "^3.3"
+  }
+}
